@@ -1,6 +1,7 @@
 ## Yoon Han Young 👋
 🧑 I'm growing into a front-end developer<br />
 🛠 I'm studying JavaScript and React<br />
+📝 I write down what I studied for a week on my blog<br />
 
 ### 🙋‍♂️My blog
 <a href="https://velog.io/@yoon_han0">![Blog](https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoon_han0)</a>
