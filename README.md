@@ -11,6 +11,9 @@
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%231572B6.svg?style=flat-square&logo=react&logoColor=white)
+![python](https://img.shields.io/badge/python-blue.svg?style=flat-square&logo=python&logoColor=white)
+![android](https://img.shields.io/badge/android-%3DDC84.svg?style=flat-square&logo=androidstudio&logoColor=white)
+![github](https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white) 
 
 <!--
 **YoonHan0/YoonHan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
