@@ -1,5 +1,5 @@
 ## Yoon Han Young 👋
-🧑 I'm growing into a front-end developer<br />
+🧑 I'm growing into a Full-stack developer<br />
 🛠 I'm studying JavaScript and React<br />
 📝 I write down what I studied for a week on my blog<br />
 
